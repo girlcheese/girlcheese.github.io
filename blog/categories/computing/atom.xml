@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Computing | My Octopress Blog]]></title>
+  <link href="http://girlcheese.github.io/blog/categories/computing/atom.xml" rel="self"/>
+  <link href="http://girlcheese.github.io/"/>
+  <updated>2015-09-16T13:51:12+01:00</updated>
+  <id>http://girlcheese.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[MYO - Wearable Gesture Control From Thalmic Labs]]></title>
+    <link href="http://girlcheese.github.io/blog/2013/02/26/myo-wearable-gesture-control-from-thalmic-labs/"/>
+    <updated>2013-02-26T14:25:20+00:00</updated>
+    <id>http://girlcheese.github.io/blog/2013/02/26/myo-wearable-gesture-control-from-thalmic-labs</id>
+    <content type="html"><![CDATA[<p>httpvh://www.youtube.com/watch?v=oWu9TFJjHaM</p>
+
+
+<p>OMG IS THE FUTURE</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[dotJS 2012 - Fat - What Is Open Source & Why Do I Feel So Guilty?]]></title>
+    <link href="http://girlcheese.github.io/blog/2013/02/11/dotjs-2012-fat-what-is-open-source-why-do-i-feel-so-guilty/"/>
+    <updated>2013-02-11T12:02:00+00:00</updated>
+    <id>http://girlcheese.github.io/blog/2013/02/11/dotjs-2012-fat-what-is-open-source-why-do-i-feel-so-guilty</id>
+    <content type="html"><![CDATA[<div class="posterous_bookmarklet_entry">
+      <iframe allowfullscreen="true" src="http://www.youtube.com/embed/UIDb6VBO9os?wmode=transparent" frameborder="0" height="417" width="500"></iframe></p>
+<div class="posterous_quote_citation">via <a href="http://www.youtube.com/watch?v=UIDb6VBO9os">youtube.com</a></div></p>
+</div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Mark Dalgleish - Embracing Touch: Cross Platform Scrolling]]></title>
+    <link href="http://girlcheese.github.io/blog/2012/11/15/mark-dalgleish-embracing-touch-cross-platform-scrolling/"/>
+    <updated>2012-11-15T13:27:00+00:00</updated>
+    <id>http://girlcheese.github.io/blog/2012/11/15/mark-dalgleish-embracing-touch-cross-platform-scrolling</id>
+    <content type="html"><![CDATA[<div class="posterous_bookmarklet_entry">
+      <iframe allowfullscreen="true" src="http://www.youtube.com/embed/Ii5AkRNSVHg?wmode=transparent" frameborder="0" height="417" width="500"></iframe></p>
+<div class="posterous_quote_citation">via <a href="http://www.youtube.com/watch?v=Ii5AkRNSVHg&amp;feature=youtube_gdata_player">youtube.com</a></div>
+<p>nicely</p>
+</div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Google I/O 2011: Chrome Dev Tools Reloaded /via @lukebond]]></title>
+    <link href="http://girlcheese.github.io/blog/2012/02/03/google-io-2011-chrome-dev-tools-reloaded-via-lukebond/"/>
+    <updated>2012-02-03T16:12:00+00:00</updated>
+    <id>http://girlcheese.github.io/blog/2012/02/03/google-io-2011-chrome-dev-tools-reloaded-via-lukebond</id>
+    <content type="html"><![CDATA[<div class="posterous_bookmarklet_entry">
+      <iframe allowfullscreen="true" src="http://www.youtube.com/embed/N8SS-rUEZPg?wmode=transparent" frameborder="0" height="417" width="500"></iframe></p>
+<div class="posterous_quote_citation">via <a href="http://www.youtube.com/watch?v=N8SS-rUEZPg">youtube.com</a></div></p>
+</div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Reveal Project - Personal Data Mirror /ht @ruskin147]]></title>
+    <link href="http://girlcheese.github.io/blog/2011/12/07/reveal-project-personal-data-mirror-ht-ruskin147/"/>
+    <updated>2011-12-07T10:02:00+00:00</updated>
+    <id>http://girlcheese.github.io/blog/2011/12/07/reveal-project-personal-data-mirror-ht-ruskin147</id>
+    <content type="html"><![CDATA[<div class="posterous_bookmarklet_entry">
+      <iframe src="http://player.vimeo.com/video/31274171?portrait=0" frameborder="0" height="283" width="500"></iframe></p>
+<div class="posterous_quote_citation">via <a href="http://vimeo.com/31274171">vimeo.com</a></div>
+<p>a great little R&D product</p>
+</div>
+
+]]></content>
+  </entry>
+  
+</feed>

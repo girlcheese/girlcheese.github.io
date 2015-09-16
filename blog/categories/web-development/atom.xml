@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Web Development | My Octopress Blog]]></title>
+  <link href="http://girlcheese.github.io/blog/categories/web-development/atom.xml" rel="self"/>
+  <link href="http://girlcheese.github.io/"/>
+  <updated>2015-09-16T13:51:12+01:00</updated>
+  <id>http://girlcheese.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Want to Find the Google Analytics trackingId Values in Use on a Page?]]></title>
+    <link href="http://girlcheese.github.io/blog/2014/08/21/google-analytics-trackingid-values-in-use-on-a-page/"/>
+    <updated>2014-08-21T14:45:25+01:00</updated>
+    <id>http://girlcheese.github.io/blog/2014/08/21/google-analytics-trackingid-values-in-use-on-a-page</id>
+    <content type="html"><![CDATA[<p>It's all very well and good if you want to find the trackingIds you need to use when building a page (just check the admin console) but if you want to find out which trackingIds have actually been deployed onto a page, to debug your implementation, then you need to do this. The first gist returns an Array to the console of all tracking IDs on the page, the second simpler example just pings back a single ID.</p>
+
+
+<p><script src="https://gist.github.com/girlcheese/563f8f3583fa5017ca37.js"></script></p>
+
+
+<h4>Further Reading:</h4>
+
+
+<ul>
+<li><a href="%20https://developers.google.com/analytics/devguides/collection/analyticsjs/method-reference" target="_blank">analytics.js - Method Reference</a></li>
+<li><a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/field-reference" target="_blank">analytics.js - Field Reference</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>

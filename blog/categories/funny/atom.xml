@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Funny | My Octopress Blog]]></title>
+  <link href="http://girlcheese.github.io/blog/categories/funny/atom.xml" rel="self"/>
+  <link href="http://girlcheese.github.io/"/>
+  <updated>2015-09-16T13:51:12+01:00</updated>
+  <id>http://girlcheese.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[2manybuttons]]></title>
+    <link href="http://girlcheese.github.io/blog/2014/11/07/2manybuttons/"/>
+    <updated>2014-11-07T10:53:59+00:00</updated>
+    <id>http://girlcheese.github.io/blog/2014/11/07/2manybuttons</id>
+    <content type="html"><![CDATA[<p><iframe width="560" height="315" src="//www.youtube.com/embed/grYXuR8ODwY" frameborder="0" allowfullscreen></iframe></p>
+
+
+<p>Guilty LOL</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[LEGO Sharknado!]]></title>
+    <link href="http://girlcheese.github.io/blog/2013/07/15/lego-sharknado/"/>
+    <updated>2013-07-15T17:56:22+01:00</updated>
+    <id>http://girlcheese.github.io/blog/2013/07/15/lego-sharknado</id>
+    <content type="html"><![CDATA[<p><a style="text-align: center;" href="http://www.geeksaresexy.net/2013/07/15/zomg-lego-sharknado-pic/"><img alt="ZOMG LEGO Sharknado!" src="http://www.girlcheese.com/blog/wp-content/uploads/2013/07/lego_sharknado.jpg" /></a></p>
+
+
+<p>Via <a href="http://www.geeksaresexy.net/2013/07/15/zomg-lego-sharknado-pic/">Geeks Are Sexy</a> - There are some other nice lego shots at <a href="http://www.flickr.com/photos/ochre_jelly">the original flickr page</a> :)</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Gary Lineker]]></title>
+    <link href="http://girlcheese.github.io/blog/2013/07/05/gary-lineker/"/>
+    <updated>2013-07-05T14:52:53+01:00</updated>
+    <id>http://girlcheese.github.io/blog/2013/07/05/gary-lineker</id>
+    <content type="html"><![CDATA[<blockquote class="twitter-tweet">
+<p>Beautiful summer&#39;s day and a huge semi! Doesn&#39;t get much better. <a href="https://twitter.com/search?q=%23wimbledon&amp;src=hash">#wimbledon</a></p>
+<p>&mdash; Gary Lineker (@GaryLineker) <a href="https://twitter.com/GaryLineker/statuses/353124101059125248">July 5, 2013</a></p></blockquote>
+
+
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+
+
+<p>Quality Accidental Partridge</p>
+
+]]></content>
+  </entry>
+  
+</feed>

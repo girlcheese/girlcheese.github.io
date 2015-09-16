@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Cheese | My Octopress Blog]]></title>
+  <link href="http://girlcheese.github.io/blog/categories/cheese/atom.xml" rel="self"/>
+  <link href="http://girlcheese.github.io/"/>
+  <updated>2015-09-16T13:51:12+01:00</updated>
+  <id>http://girlcheese.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Mammary Fluids]]></title>
+    <link href="http://girlcheese.github.io/blog/2008/05/28/mammary-fluids/"/>
+    <updated>2008-05-28T17:29:37+01:00</updated>
+    <id>http://girlcheese.github.io/blog/2008/05/28/mammary-fluids</id>
+    <content type="html"><![CDATA[<p>Well I've belatedly discovered that <a href="http://www.weebls-stuff.com/" title="Weebl's Stuff" target="_blank">Weebl</a> was responsible for the animated <a href="http://www.hexstatic.tv" title="Hexstatic Myspace" target="_blank">Hexstatic</a> video which gave this blog its name. The song was Chase Me (from Master View) and <a href="http://www.weebls-stuff.com/toons/chase+me/" title="view the running ninja" target="_blank">the animation is available for your viewing pleasure</a> on Weebl's site. I'm glad I squared that circle.</p>
+
+
+<p>Oh and Hexstatic also appear to have posted <a href="http://videos.hexstatic.tv/medmix.mp3" title="Medmix" target="_blank">a lovely new mix</a> up on their site.</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Anti-Cheese!]]></title>
+    <link href="http://girlcheese.github.io/blog/2007/05/09/anti-cheese/"/>
+    <updated>2007-05-09T10:38:16+01:00</updated>
+    <id>http://girlcheese.github.io/blog/2007/05/09/anti-cheese</id>
+    <content type="html"><![CDATA[<p>Apparently, 52 percent of senior people in the dairy industry feel that <a href="http://www.timesonline.co.uk/tol/news/politics/article1733899.ece" title="Times Online" target="_blank">the government is anti-cheese</a>. This is disheartening news, and presumably goes some way to explaining their dismal performance in the latest local elections.</p>
+
+
+<p>Iraq you say? No. Definitely the cheese. Thanks to the <a href="http://www.demos.co.uk/blog/cheesedoff" title="Demos Blog" target="_blank">Demos blog</a> for the link.</p>
+
+]]></content>
+  </entry>
+  
+</feed>

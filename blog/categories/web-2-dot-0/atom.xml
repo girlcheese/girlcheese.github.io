@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Web 2.0 | My Octopress Blog]]></title>
+  <link href="http://girlcheese.github.io/blog/categories/web-2-dot-0/atom.xml" rel="self"/>
+  <link href="http://girlcheese.github.io/"/>
+  <updated>2015-09-16T13:51:12+01:00</updated>
+  <id>http://girlcheese.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Farewell Posterous]]></title>
+    <link href="http://girlcheese.github.io/blog/2013/02/19/farewell-posterou/"/>
+    <updated>2013-02-19T03:04:57+00:00</updated>
+    <id>http://girlcheese.github.io/blog/2013/02/19/farewell-posterou</id>
+    <content type="html"><![CDATA[<p>It was inevitable I guess but after <a href="http://blog.posterous.com/thanks-from-posterous" target="_blank">last Friday's announcement</a> from the Twitter-acquired blogging platform, I've imported all my posts and content from my old domain and dumped them here. *sadface* I liked posterous. It's low friction posting mechanics and following structure were good things and although it was later to the party than the bigger and prettier Tumblr, it appealed to me. Designed by engineers it may have been (maybe that's why it appealed!) but it was a decent platform, and has 5 years of good content upon it, which will disappear in a little over a month.</p>
+
+
+<p>This is now the home of the Clerkenwell Burrito Diary (now I'm no longer working in Clerkenwell, just Plain Old Burrito Diary I guess), and all the other <del>random crap</del>glorious internuggets I shared there.</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Late to the Party]]></title>
+    <link href="http://girlcheese.github.io/blog/2008/10/21/late-to-the-party/"/>
+    <updated>2008-10-21T09:42:39+01:00</updated>
+    <id>http://girlcheese.github.io/blog/2008/10/21/late-to-the-party</id>
+    <content type="html"><![CDATA[<p>I may be a latecomer to this particular social tool, although it's been on my Radar for some time - but <a href="http://weheartit.com" target="_blank">weheartit.com</a> is a great site. I'm having trouble using it at work though, given the frequently explicit nature of the images people seem to bookmark. <a href="http://ffffound.com/" target="_blank">ffffound</a> is a much more purely "arty" service in a similar vein.</p>
+
+
+<p>Plus I wonder what the etiquette is with regard to <a href="http://weheartit.com/entry/152981" target="_blank">hearting your own images</a>? A touch vain perhaps, but I couldn't help it :)</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Radio Pop]]></title>
+    <link href="http://girlcheese.github.io/blog/2008/09/08/radio-pop/"/>
+    <updated>2008-09-08T13:20:18+01:00</updated>
+    <id>http://girlcheese.github.io/blog/2008/09/08/radio-pop</id>
+    <content type="html"><![CDATA[<p><img class="alignleft" style="float:left;margin-right:4px;" title="Radio POP" src="http://www.radiopop.co.uk/images/banner/banner_logo.png" alt="Radio POP Logo" width="228" height="76" />Did video kill the radio star? And will "social listening" revive it? BBC Labs have launched "<a href="http://www.radiopop.co.uk" target="_blank">Radio Pop</a>", an experimental social listening platform. It's experimental and it may disappear, but the listening-tracking technology may also make its way into the iPlayer some day. At first glance its a bit like a BBC radio specific scrobbler/<a href="http://www.last.fm" target="_blank">last.fm</a> combination - it graphs past listens and allows you to push-button "pop" stuff you listen to, with which it then creates a reminder list.</p>
+
+
+<p>There's no sign of a recommendation engine - in that respect it's clearly not trying to ape last.fm mechanics. I'd hesitate to imply that was the aim at all - it would be tough to introduce some sort of social listening site without making some of the features smell a bit last.fm-ish though!</p>
+
+
+<p>At current - given that it only tracks <em>live </em>stream listening and listening needs to be done through the radiopop widget - it's a bit of a useability step back and away from the glorious iPlayer. But the potential in future tracking, tagging and marking listens to non-live archives is clear. Socialising the iPlayer is a mere step away and represents a pretty exciting future for BBC interactive services.</p>
+
+
+<p><strong>Full disclosure:</strong> I work for <a title="We are GT" href="http://www.wearegt.com" target="_blank">one of the two digital agencies employed by the BBC</a>, but have had no part in the development of the radiopop technology or strategy. My only contact with the iPlayer is production of periodic newsletters. The content of this blog does not have any connection with my employer.</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Google Chrome Has Landed]]></title>
+    <link href="http://girlcheese.github.io/blog/2008/09/03/google-chrome-has-landed/"/>
+    <updated>2008-09-03T09:12:41+01:00</updated>
+    <id>http://girlcheese.github.io/blog/2008/09/03/google-chrome-has-landed</id>
+    <content type="html"><![CDATA[<p>And I'm posting from it now. All in all a <a title="Download page" href="http://www.google.com/chrome" target="_blank">VERY satisfying browser</a>, and this just from impressions of the first few minutes. Four tabs open and the memory footprint is similar to Firefox, and it's running much faster than even that browser out of the box and unencumbered by add-ons. The interface is very clean. I do miss Live Bookmarks - I'll have to find an alternative of some sort. It handles google applications very well, predictably. Netvibes is a little worrying though; it seems to be chewing up memory at a rate of knots - 8-16kb per second adding to its stack, maxing at 64Mb.</p>
+
+
+<p>What the comic said about being able to use the task manager to target poorly programmed web sites appears to be correct! As to whether the browser is as bad an idea as <a title="7 reasons" href="http://seo2.0.onreact.com/7-reasons-why-google-chrome-the-new-google-browser-is-a-bad-idea" target="_blank">some may think</a>, I doubt the most pessimistic of predictions. Its built in VM for Javascript is a very good idea and appears at first glance to have the desired effect. Isolation of tabs into processes is a significant improvement on previous single-threaded browsers, and though it may yet just turn into a vehicle for google services, ads, and information gathering, its challenge to the duopoly of IE and FF and its use of new techniques is a great leap forward.</p>
+
+
+<p>The only down side I have is that it will make testing more laborious for any development once it emerges from beta (if that ever happens, given the perpetual beta of gmail and google calendar!)</p>
+
+
+<p><strong>Update:</strong> A security flaw (due to the software being based on an old version of WebKit) has <a title="El Reg" href="http://www.theregister.co.uk/2008/09/03/google_chrome_vuln/" target="_blank">already been discovered</a> in Chrome. I guess there will be more... And some people have chosen to <a title="El Reg again" href="http://www.theregister.co.uk/2008/09/02/google_chrome_comic_funnies/" target="_blank">comment on the browser</a> in the same comic form used to Press Release it.</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Machine Is Us/ing Us]]></title>
+    <link href="http://girlcheese.github.io/blog/2007/02/16/the-machine-is-using-us/"/>
+    <updated>2007-02-16T19:50:59+00:00</updated>
+    <id>http://girlcheese.github.io/blog/2007/02/16/the-machine-is-using-us</id>
+    <content type="html"><![CDATA[<p>Handy-dandy little 5 minute synopsis of web2.0 concepts:</p>
+
+
+<p>httpv://www.youtube.com/watch?v=6gmP4nk0EOE</p>
+
+
+<p>Very useful to explain stuff I take for granted to people who might not even know what hypertext is. It manages to slip in the phrase "XML facilitates automated data exchange" too, which I liked in an otherwise layman friendly presentation. We'll get them, by stealth if we have to!</p>
+
+
+<p>To say it's caused something of a buzz is an understatement and it's frankly pretty brilliant that an Ethnographer has shown marketeers a thing or two about creating viral content.  He <a title="Inside Higher Ed" href="http://insidehighered.com/news/2007/02/07/web" target="_blank">hits the nail on the head</a> when he identifies that the main reason for its popularity is probably the fact that the content speaks of and to the people responsible for spreading it. From 10 to 1.1 million views in just over 2 weeks.</p>
+
+
+<p><a title="Wired 13.08 : August 2005" href="http://www.wired.com/wired/archive/13.08/tech.html" target="_blank">Wired article: We are the web</a><br />
+<a title="mwesch on YouTube" href="http://www.youtube.com/profile?user=mwesch" target="_blank">Professor Michael Wesch's Youtube page</a><br />
+<a title="ksu.edu" href="http://www.ksu.edu/sasw/anthro/wesch.htm" target="_blank">Michael Wesch's page at KSU.edu</a><br />
+<a title="Mediate Cultures, KSU" href="http://mediatedcultures.net/ksudigg/" target="_blank">Digital Ethnography @ KSU</a></p>
+
+]]></content>
+  </entry>
+  
+</feed>

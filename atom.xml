@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://girlcheese.github.io/atom.xml" rel="self"/>
   <link href="http://girlcheese.github.io/"/>
-  <updated>2015-09-16T10:19:25+01:00</updated>
+  <updated>2015-09-16T13:51:12+01:00</updated>
   <id>http://girlcheese.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,241 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Test New Post]]></title>
+    <link href="http://girlcheese.github.io/blog/2015/09/16/test-new-post/"/>
+    <updated>2015-09-16T13:44:31+01:00</updated>
+    <id>http://girlcheese.github.io/blog/2015/09/16/test-new-post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[2manybuttons]]></title>
+    <link href="http://girlcheese.github.io/blog/2014/11/07/2manybuttons/"/>
+    <updated>2014-11-07T10:53:59+00:00</updated>
+    <id>http://girlcheese.github.io/blog/2014/11/07/2manybuttons</id>
+    <content type="html"><![CDATA[<p><iframe width="560" height="315" src="//www.youtube.com/embed/grYXuR8ODwY" frameborder="0" allowfullscreen></iframe></p>
+<p>Guilty LOL</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Gavlyn on the Cypher Effect]]></title>
+    <link href="http://girlcheese.github.io/blog/2014/11/07/gavlyn-cypher-effect/"/>
+    <updated>2014-11-07T10:49:49+00:00</updated>
+    <id>http://girlcheese.github.io/blog/2014/11/07/gavlyn-cypher-effect</id>
+    <content type="html"><![CDATA[<p><iframe width="560" height="315" src="//www.youtube.com/embed/X853YWF5Qq4" frameborder="0" allowfullscreen></iframe></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[New Season, New Bike]]></title>
+    <link href="http://girlcheese.github.io/blog/2014/11/06/trek-crossrip-2015/"/>
+    <updated>2014-11-06T10:23:02+00:00</updated>
+    <id>http://girlcheese.github.io/blog/2014/11/06/trek-crossrip-2015</id>
+    <content type="html"><![CDATA[<p>So with the arrival of the 2015 models in shops, it seemed rude not to take advantage of the Ride 2 Work scheme at work. I've been feeling the disparity in weight between myself and my Madone 3.1C, and with the arrival of the Autumn, I felt it was a good idea to get something a bit better suited to the wet conditions.</p>
+<p>On the evidence of the above I think I need to lower the saddle a bit and adjust the handlebars up and in slightly. The reach is noticeably longer than the Madone, and that's the opposite of what an "Adventure Road" (Cross Bike as was last year, before they invented a new fancy term for them) should probably be. Stability not flat speed being the aim.</p>
+<p>So I waited patiently until they arrived at Evans and then went for it, getting a lovely matte black Crossrip Elite 2015. In Aluminium, it is of course noticeably heavier than the Madone, and I've yet to tweak the riding position fully to my satisfaction, having only ridden on it so far for two commutes. So a full brain-dump of my impression will hopefully be forthcoming in due course. But it's a lovely bike with some great attention to detail.</p>
+<p>Aesthetics are great - black matched with blue detailing (anodisd hubs and seat clamp) which I matched up with blue Crank Brothers pedals (easy to clip in and out on London roads, I run them on the Madone too, just to offend roadie purists). Cables are routed internally through the down tube. Extra brake levers on the tops of the handle bars in addition to the brifters. For descending (how much aggressive descending I do remains to be seen, although I'll take her out in Kent as soon as I'm able).</p>
+<p>Clearances for mudguards and braze-ons for a panier rack should I ever wish for one are on the frame too, which adds to the flexibility. I'll be the first to say she won't see much off-road action, and is perhaps overkill for a commute bike. Here's hoping I manage some winter distances. The standard 27km a day will bore her.</p>
+<p><iframe src="http://www.strava.com/activities/215721949/embed/98a070864e3afcb60c2494a65f03ff0711f0c41d" width="590" height="405" frameborder="0" scrolling="no"></iframe></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Funk, Soul & Rare Groove Playlist]]></title>
+    <link href="http://girlcheese.github.io/blog/2014/10/07/funk-soul-rare-groove-playlist/"/>
+    <updated>2014-10-07T14:29:28+01:00</updated>
+    <id>http://girlcheese.github.io/blog/2014/10/07/funk-soul-rare-groove-playlist</id>
+    <content type="html"><![CDATA[<p>From the Hive mind, I've collected a - growing - Spotify playlist of lovely tunes from friends. Some of my absolute favourite tunes are held within, including the awesome "You're Losing Me" and the equally amazing "Come on Train".</p>
+<p><iframe src="https://embed.spotify.com/?uri=spotify:user:gwawr247:playlist:3Wus0tHQ4yWJcY8tT0fEd8" width="300" height="380" frameborder="0"></iframe></p>
+<p>It currently leans quite heavily on Soul and Funk but I'm sure some Disco will emerge from the woodwork in time as we get our heads together.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Want to Find the Google Analytics trackingId Values in Use on a Page?]]></title>
+    <link href="http://girlcheese.github.io/blog/2014/08/21/google-analytics-trackingid-values-in-use-on-a-page/"/>
+    <updated>2014-08-21T14:45:25+01:00</updated>
+    <id>http://girlcheese.github.io/blog/2014/08/21/google-analytics-trackingid-values-in-use-on-a-page</id>
+    <content type="html"><![CDATA[<p>It's all very well and good if you want to find the trackingIds you need to use when building a page (just check the admin console) but if you want to find out which trackingIds have actually been deployed onto a page, to debug your implementation, then you need to do this. The first gist returns an Array to the console of all tracking IDs on the page, the second simpler example just pings back a single ID.</p>
+<p><script src="https://gist.github.com/girlcheese/563f8f3583fa5017ca37.js"></script></p>
+<h4>Further Reading:</h4>
+<ul>
+<li><a href="%20https://developers.google.com/analytics/devguides/collection/analyticsjs/method-reference" target="_blank">analytics.js - Method Reference</a></li>
+<li><a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/field-reference" target="_blank">analytics.js - Field Reference</a></li>
+</ul>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Cycling London to Amsterdam in 4 Days for Awamu]]></title>
+    <link href="http://girlcheese.github.io/blog/2014/08/19/london-amsterdam-awamu/"/>
+    <updated>2014-08-19T13:07:56+01:00</updated>
+    <id>http://girlcheese.github.io/blog/2014/08/19/london-amsterdam-awamu</id>
+    <content type="html"><![CDATA[<p>I'm back, a bit sore, a bit wind and sun burned, but happy. What a great four days. We've got the total raised over £8,000 which is amazing, but <a href="http://j.mp/1ylW3E9" target="_blank">donations are still welcome</a>. With more, we can get another few kids through school in Uganda as well as building all the gardens we'd aimed to provide. I can't stress how great the project is, both in terms of how much of a difference your money makes and how directly it will assist the project we're helping. <a href="http://awamu.co.uk/2014/02/we-are-awamu/" target="_blank">Read more about Awamu and the kids in Kampala on their website</a>.</p>
+<h2>Day One - London to Dover</h2>
+<p><iframe src="http://www.strava.com/activities/182306849/embed/69b47fc6095db6586b0526e8d0f3b53fa7ddac6e" width="590" height="405" frameborder="0" scrolling="no"></iframe></p>
+<p>We started off in Blackheath - a reasonable start-point, on the right side of town to reach Dover, but with the interesting first challenge of Shooter's Hill to contend with. The properly non-delightful A2 also presented its own challenges, with some busy sections, as well as climbs later in the ride, which when combined with the rain, made this day probably the toughest all round.</p>
+<p>If I was to ride from London to Dover again, I'd check some sections again to find a more cycle-friendly route. We wanted to keep the mileage down because of the deadline of the ferry and the climbs adding to the difficulty. We all made it with the continued and essential support of our two magnificent support drivers in the van full of carbs, Michelle and Kate. They became a welcome sight along the road from that day and the following three.</p>
+<p>The ferry crossed us to Calais, then we hopped over to the hotel for the night and got some rest before the first full continental day of riding.</p>
+<h2>Day Two: Calais to Bruges</h2>
+<p><iframe src="http://www.strava.com/activities/182306929/embed/05a4da2b2b635fd5997801afd833e2245c264493" width="590" height="405" frameborder="0" scrolling="no"></iframe></p>
+<p>Calais isn't the prettiest town. We soon left it behind and headed into rural areas. Quiet roads for the most part, some segregated tracks. Sunshine and showers. A mixed bag but a great ride, and devoid of the climbs and A-roads of the English leg.</p>
+<h2>Day 3: Bruges to Delft</h2>
+<p><iframe src="http://www.strava.com/activities/182306983/embed/4a8fd6cb31512a856b433d1fb083a57fa0b36a6d" width="590" height="405" frameborder="0" scrolling="no"></iframe></p>
+<p>We knew this was going to be a long day. The coastal sections also made for quite a lot of wind. The rest stops became even more important due to long legs between them. I also managed to drop my front wheel into a water filled ditch and tumble over the handlebars very early in the day, which slowed me down a bit. Having to keep working my legs worked out the pain though. There were some lovely sections on this day. More kite surfers in one place than I have ever seen in my life in Scharendijke, lovely canal-side riding around the border, wetlands. The delight of riding on Dutch infrastructure despite the occasional bad weather.</p>
+<p>We arrived in Delft to the strains of the Jazz Festival, and the (un)welcome of the hostel which was closed when we attempted to check in, and where we had to make our own beds. Once mine was made, I climbed straight in, took a painkiller and rested my leg. The others skipped out for music, beer and burgers. Don't bother staying at the Jorplace hostel in Delft, folks, it's rubbish. They even took ten Euros from us because we left energy bar wrappers in their bin (consumed on the ride, but somehow contravening their "no food in the rooms" rule.</p>
+<p>Delft seemed like a lovely city though, I'd definitely come back, in order to actually see a bit more of it!</p>
+<h2>Day 4: Delft to Amsterdam</h2>
+<p><iframe src="http://www.strava.com/activities/182307008/embed/336bb07230aa95cfb81bd6fc6e0c751a30e3ba63" width="590" height="405" frameborder="0" scrolling="no"></iframe><br />
+After the previous day this was a much more manageable distance and we cut out the post-lunch stop, meaning we had three pushes of around 20km each. We got a bit of a soak after lunchA minor diversion from the route to get between Schipol and Amsterdam, as I couldn't see a way onto the track suggested - so instead a signposted route through forest and field took us to just south of Vondelpark. Once we exited the park the heavens absolutely opened onto us and we received a massive soaking between there and Dam Square for our photo and bubbly cider finale.</p>
+<p>All in all an amazing four days - highs, lows and lovely cycling, with a fantastic bunch for a great cause. It's been three years since London-Paris, I guess we now have a bit of a think for what to plan for the next one!</p>
+<p><a href="http://j.mp/1ylW3E9" target="_blank">Donations can still be made</a> for a month or so - it's a great cause, well worth your support.</p>
+<p><a href="http://www.girlcheese.com/blog/wp-content/uploads/2014/08/10277491_10154468275450153_7082843461473429585_n.jpg"><img class="alignnone" src="http://www.girlcheese.com/blog/wp-content/uploads/2014/08/10277491_10154468275450153_7082843461473429585_n.jpg" alt="Awamu 2014 arrive in Amsterdam" /></a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Arcadia Glastonbury]]></title>
+    <link href="http://girlcheese.github.io/blog/2014/07/09/arcadia-glastonbury/"/>
+    <updated>2014-07-09T12:09:55+01:00</updated>
+    <id>http://girlcheese.github.io/blog/2014/07/09/arcadia-glastonbury</id>
+    <content type="html"><![CDATA[<p>This is lovely!</p>
+<p>https://www.youtube.com/watch?v=VPRvV6-LsTI</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Lovelight - Soulwax Ravelight Dub]]></title>
+    <link href="http://girlcheese.github.io/blog/2014/02/10/lovelight-soulwax-ravelight-dub/"/>
+    <updated>2014-02-10T11:52:16+00:00</updated>
+    <id>http://girlcheese.github.io/blog/2014/02/10/lovelight-soulwax-ravelight-dub</id>
+    <content type="html"><![CDATA[<p>What a shame <a href="https://copy.com/ODKceqOemNwu">the dub of this remix</a> isn't on Spotify because I would play the tihs out of it.</p>
+<p><iframe src="https://embed.spotify.com/?uri=spotify:track:584gdbulaiceL7JHuC4jax" height="380" width="300" frameborder="0"></iframe></p>
+<p>Be sure and quit out of the vocal version before Robbie's awful vocals start at around 55 seconds in.</p>
+<p>The original is far superior!</p>
+<p><iframe src="https://embed.spotify.com/?uri=spotify:track:3zj8Cym3DTRCke5p4e6Kz5" height="380" width="300" frameborder="0"></iframe></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Let the Machines Do the Work - Let Me Be the One (Original Mix)]]></title>
+    <link href="http://girlcheese.github.io/blog/2013/08/14/let-the-machines-do-the-work-let-me-be-the-one-original-mix/"/>
+    <updated>2013-08-14T11:42:32+01:00</updated>
+    <id>http://girlcheese.github.io/blog/2013/08/14/let-the-machines-do-the-work-let-me-be-the-one-original-mix</id>
+    <content type="html"><![CDATA[<p><iframe width="560" height="315" src="//www.youtube.com/embed/sYPpbfs5Vn4" frameborder="0" allowfullscreen></iframe></p>
+<p>The debut single and video from LTMDTW is probably the first ever video to be shot at an actual EDL rally. Rather than members of the English Defence League, the Brighton four piece are fans of the English Disco Lovers and joined forces with them to bring some glamour to the occasion.</p>
+<p><iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/128855799&amp;auto_play=false&amp;hide_related=false&amp;visual=true"></iframe></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The London Cyclist]]></title>
+    <link href="http://girlcheese.github.io/blog/2013/08/13/the-london-cyclist/"/>
+    <updated>2013-08-13T09:38:11+01:00</updated>
+    <id>http://girlcheese.github.io/blog/2013/08/13/the-london-cyclist</id>
+    <content type="html"><![CDATA[<p>Nice video from Tom and Steve. Not the usual Go Pro fillum.</p>
+<p><iframe src="//www.youtube.com/embed/ZjhezGgVXPM" height="315" width="560" allowfullscreen="" frameborder="0"></iframe></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Despacio Soundsystem: James Murphy and 2ManyDJs in Conversation]]></title>
+    <link href="http://girlcheese.github.io/blog/2013/08/12/despacio-soundsystem-james-murphy-and-2manydjs-in-conversation/"/>
+    <updated>2013-08-12T13:50:02+01:00</updated>
+    <id>http://girlcheese.github.io/blog/2013/08/12/despacio-soundsystem-james-murphy-and-2manydjs-in-conversation</id>
+    <content type="html"><![CDATA[<p><a href="http://www.youtube.com/watch?v=k5z6lG8AAyk"> </a></p>
+<p><iframe src="//www.youtube.com/embed/k5z6lG8AAyk" height="315" width="560" allowfullscreen="" frameborder="0"></iframe></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Bob Burnquist's "Dreamland" - a Backyard Progression]]></title>
+    <link href="http://girlcheese.github.io/blog/2013/08/01/bob-burnquists-dreamland-a-backyard-progression/"/>
+    <updated>2013-08-01T12:32:45+01:00</updated>
+    <id>http://girlcheese.github.io/blog/2013/08/01/bob-burnquists-dreamland-a-backyard-progression</id>
+    <content type="html"><![CDATA[<p><iframe src="//www.youtube.com/embed/tSnfO15cAHE" height="315" width="560" allowfullscreen="" frameborder="0"></iframe></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[She's a Star!]]></title>
+    <link href="http://girlcheese.github.io/blog/2013/08/01/shes-a-star/"/>
+    <updated>2013-08-01T11:32:25+01:00</updated>
+    <id>http://girlcheese.github.io/blog/2013/08/01/shes-a-star</id>
+    <content type="html"><![CDATA[<p><a href="http://www.lovelightphoto.co.uk/adventures-with-ada/"><img alt="Ada" src="http://www.girlcheese.com/blog/wp-content/uploads/2013/08/ada-side-1024x682.jpg" /></a></p>
+<p>Our <a href="http://instagram.com/photostu1">lovely friend Stuart</a> has <a title="Lovelight Photography" href="http://www.lovelightphoto.co.uk/">a lovely new photography business</a>. And <a href="http://www.lovelightphoto.co.uk/adventures-with-ada/">my daughter</a> was lucky enough to have some photos taken and be featured in the site on launch. We're very impressed with the results. Ada enjoyed her day no end, and the photos we'll treasure forever.</p>
+<p>Thanks Lovelight, and thanks Stu!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Chipotle: Wardour Street - Steak Salad]]></title>
+    <link href="http://girlcheese.github.io/blog/2013/07/31/chipotle-wardour-street-steak-salad/"/>
+    <updated>2013-07-31T14:14:24+01:00</updated>
+    <id>http://girlcheese.github.io/blog/2013/07/31/chipotle-wardour-street-steak-salad</id>
+    <content type="html"><![CDATA[<p>Not strictly a burrito, is it, a salad? But still. Here we are. I arrived just as the fresh steak pieces were being chopped out. It seemed churlish to choose anything else.</p>
+<p>This is my first proper Diary since departing Clerkenwell. I am still mourning the loss of my regular Daddy Donkey. But the choice around Fitzrovia is excellent so I've been well comforted by Freebird x2, El Burrito, Benito's Hat x 2 and Chipotle.</p>
+<p>The Fajita vegetables are well spiced, sweet and juicy, the brown rice is lovely, the steak a perfect medium rare. The extra corn salsa and black beans were brilliantly balanced and made it through the great hot sauce. Chipotle, you make me happy. The only down side is the cost of the (admittedly very good) Guacamole. At £1.40 it's a bit on the steep side.</p>
+<p>Benito's Hat is still a firm favourite locally but Chipotle is worth the small extra walk. I'm also still a definite convert to the open Burrito - being able to take one's time and see what you're eating is a great benefit.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Shed to Bed - Summer Time City]]></title>
+    <link href="http://girlcheese.github.io/blog/2013/07/23/shed-to-bed-summer-time-city/"/>
+    <updated>2013-07-23T10:10:16+01:00</updated>
+    <id>http://girlcheese.github.io/blog/2013/07/23/shed-to-bed-summer-time-city</id>
+    <content type="html"><![CDATA[<p>Yay - new Shed to Bed mix. Drips quality and suits this humid day very well. Nice one Pev &amp; Stu.</p>
+<p><iframe src="//www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Fstuart-mansfield%2Fsummer-time-city%2F&amp;embed_uuid=d80d88b2-4654-41f1-9837-3416872829c3&amp;stylecolor=&amp;embed_type=widget_standard" height="480" width="480" frameborder="0"></iframe></p>
+<div style="clear: both; height: 3px; width: 472px;"></div>
+<p style="display: block; font-size: 12px; font-family: Helvetica, Arial, sans-serif; margin: 0; padding: 3px 4px; color: #02a0c7; width: 472px;"><a style="color: #02a0c7; font-weight: bold;" href="http://www.mixcloud.com/stuart-mansfield/summer-time-city/?utm_source=widget&amp;utm_medium=web&amp;utm_campaign=base_links&amp;utm_term=resource_link" target="_blank">Summer Time City</a><span> by </span><a style="color: #02a0c7; font-weight: bold;" href="http://www.mixcloud.com/stuart-mansfield/?utm_source=widget&amp;utm_medium=web&amp;utm_campaign=base_links&amp;utm_term=profile_link" target="_blank">Stuart Mansfield</a><span> on </span><a style="color: #02a0c7; font-weight: bold;" href="http://www.mixcloud.com/?utm_source=widget&amp;utm_medium=web&amp;utm_campaign=base_links&amp;utm_term=homepage_link" target="_blank"> Mixcloud</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[LEGO Sharknado!]]></title>
+    <link href="http://girlcheese.github.io/blog/2013/07/15/lego-sharknado/"/>
+    <updated>2013-07-15T17:56:22+01:00</updated>
+    <id>http://girlcheese.github.io/blog/2013/07/15/lego-sharknado</id>
+    <content type="html"><![CDATA[<p><a style="text-align: center;" href="http://www.geeksaresexy.net/2013/07/15/zomg-lego-sharknado-pic/"><img alt="ZOMG LEGO Sharknado!" src="http://www.girlcheese.com/blog/wp-content/uploads/2013/07/lego_sharknado.jpg" /></a></p>
+<p>Via <a href="http://www.geeksaresexy.net/2013/07/15/zomg-lego-sharknado-pic/">Geeks Are Sexy</a> - There are some other nice lego shots at <a href="http://www.flickr.com/photos/ochre_jelly">the original flickr page</a> :)</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Clean Bandit - Dust Clears]]></title>
+    <link href="http://girlcheese.github.io/blog/2013/07/12/clean-bandit-dust-clears/"/>
+    <updated>2013-07-12T16:35:25+01:00</updated>
+    <id>http://girlcheese.github.io/blog/2013/07/12/clean-bandit-dust-clears</id>
+    <content type="html"><![CDATA[<p><iframe src="//www.youtube.com/embed/SdfL2nY-Xs8" height="315" width="560" allowfullscreen="" frameborder="0"></iframe></p>
+<p><a href="https://www.youtube.com/watch?v=SdfL2nY-Xs8&amp;feature=youtu.be"> </a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Gary Lineker]]></title>
+    <link href="http://girlcheese.github.io/blog/2013/07/05/gary-lineker/"/>
+    <updated>2013-07-05T14:52:53+01:00</updated>
+    <id>http://girlcheese.github.io/blog/2013/07/05/gary-lineker</id>
+    <content type="html"><![CDATA[<blockquote class="twitter-tweet">
+<p>Beautiful summer&#39;s day and a huge semi! Doesn&#39;t get much better. <a href="https://twitter.com/search?q=%23wimbledon&amp;src=hash">#wimbledon</a></p>
+<p>&mdash; Gary Lineker (@GaryLineker) <a href="https://twitter.com/GaryLineker/statuses/353124101059125248">July 5, 2013</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Quality Accidental Partridge</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Jacob Appelbaum on Tempora, NSA and Sureveillance.]]></title>
+    <link href="http://girlcheese.github.io/blog/2013/07/05/jacob-appelbaum-on-tempora-nsa-and-sureveillance/"/>
+    <updated>2013-07-05T12:04:15+01:00</updated>
+    <id>http://girlcheese.github.io/blog/2013/07/05/jacob-appelbaum-on-tempora-nsa-and-sureveillance</id>
+    <content type="html"><![CDATA[<p><iframe src="//www.youtube.com/embed/jq5djtLkgB4" height="315" width="560" allowfullscreen="" frameborder="0"></iframe></p>
+]]></content>
+  </entry>
   
 </feed>

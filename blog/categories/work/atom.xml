@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Work | My Octopress Blog]]></title>
+  <link href="http://girlcheese.github.io/blog/categories/work/atom.xml" rel="self"/>
+  <link href="http://girlcheese.github.io/"/>
+  <updated>2015-09-16T13:51:12+01:00</updated>
+  <id>http://girlcheese.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Want to Find the Google Analytics trackingId Values in Use on a Page?]]></title>
+    <link href="http://girlcheese.github.io/blog/2014/08/21/google-analytics-trackingid-values-in-use-on-a-page/"/>
+    <updated>2014-08-21T14:45:25+01:00</updated>
+    <id>http://girlcheese.github.io/blog/2014/08/21/google-analytics-trackingid-values-in-use-on-a-page</id>
+    <content type="html"><![CDATA[<p>It's all very well and good if you want to find the trackingIds you need to use when building a page (just check the admin console) but if you want to find out which trackingIds have actually been deployed onto a page, to debug your implementation, then you need to do this. The first gist returns an Array to the console of all tracking IDs on the page, the second simpler example just pings back a single ID.</p>
+
+
+<p><script src="https://gist.github.com/girlcheese/563f8f3583fa5017ca37.js"></script></p>
+
+
+<h4>Further Reading:</h4>
+
+
+<ul>
+<li><a href="%20https://developers.google.com/analytics/devguides/collection/analyticsjs/method-reference" target="_blank">analytics.js - Method Reference</a></li>
+<li><a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/field-reference" target="_blank">analytics.js - Field Reference</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[dotJS 2012 - Fat - What Is Open Source & Why Do I Feel So Guilty?]]></title>
+    <link href="http://girlcheese.github.io/blog/2013/02/11/dotjs-2012-fat-what-is-open-source-why-do-i-feel-so-guilty/"/>
+    <updated>2013-02-11T12:02:00+00:00</updated>
+    <id>http://girlcheese.github.io/blog/2013/02/11/dotjs-2012-fat-what-is-open-source-why-do-i-feel-so-guilty</id>
+    <content type="html"><![CDATA[<div class="posterous_bookmarklet_entry">
+      <iframe allowfullscreen="true" src="http://www.youtube.com/embed/UIDb6VBO9os?wmode=transparent" frameborder="0" height="417" width="500"></iframe></p>
+<div class="posterous_quote_citation">via <a href="http://www.youtube.com/watch?v=UIDb6VBO9os">youtube.com</a></div></p>
+</div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Google I/O 2011: Chrome Dev Tools Reloaded /via @lukebond]]></title>
+    <link href="http://girlcheese.github.io/blog/2012/02/03/google-io-2011-chrome-dev-tools-reloaded-via-lukebond/"/>
+    <updated>2012-02-03T16:12:00+00:00</updated>
+    <id>http://girlcheese.github.io/blog/2012/02/03/google-io-2011-chrome-dev-tools-reloaded-via-lukebond</id>
+    <content type="html"><![CDATA[<div class="posterous_bookmarklet_entry">
+      <iframe allowfullscreen="true" src="http://www.youtube.com/embed/N8SS-rUEZPg?wmode=transparent" frameborder="0" height="417" width="500"></iframe></p>
+<div class="posterous_quote_citation">via <a href="http://www.youtube.com/watch?v=N8SS-rUEZPg">youtube.com</a></div></p>
+</div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA["Lorem Ipsum" Text Generator Run-down]]></title>
+    <link href="http://girlcheese.github.io/blog/2011/09/01/lorem-ipsum-text-generator-run-down/"/>
+    <updated>2011-09-01T14:23:00+01:00</updated>
+    <id>http://girlcheese.github.io/blog/2011/09/01/lorem-ipsum-text-generator-run-down</id>
+    <content type="html"><![CDATA[<p>There's <a href="http://www.lipsum.com/" title="Lipsum dot com" target="_blank">the original</a> of course, but as well as that there are now a number of others. Here's a list of my favourites. In other words, all the ones I know about. Does anyone have others to add to the list?</p>
+
+
+<p>Edit: <em>It appears I missed <a href="http://girlcheese.posterous.com/samuel-l-ipsum" target="_self">Slipsum</a> off - thanks Steve :)</em></p>
+
+
+<p><a href="http://www.lipsum.com/" target="_blank"><strong>Lipsum.com</strong><br /></a>Classic and timeless. You'll often find it mistakenly added to live content the world over. Comes complete with a little history lesson on the origins of the text (Cicero, 45BC, folks).</p>
+
+
+<blockquote class="posterous_medium_quote">
+<p><em>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sit amet felis justo. Phasellus eget tortor id sem gravida fringilla vel non orci. Vestibulum posuere tincidunt metus eget suscipit. Nullam eros urna, luctus sit amet tristique et, ultricies eu lectus. Etiam quis metus non quam gravida viverra.</em></p>
+</blockquote>
+
+
+<p><a href="http://hipsteripsum.me" target="_blank"><strong>Hipster Ipsum</strong></a><br />I knew about this site before it was popular.&nbsp;</p>
+
+
+<blockquote class="posterous_medium_quote">
+<p><em>Tofu mcsweeney's velit in ullamco leggings. Do shoreditch irony, placeat quis locavore yr ethical nisi laboris minim mollit exercitation cliche. Readymade squid commodo craft beer cardigan enim etsy officia artisan fugiat, yr qui. Brooklyn DIY seitan shoreditch, et whatever put a bird on it odio minim id beard brunch reprehenderit cillum lo-fi. Commodo carles accusamus, blog cliche veniam brooklyn VHS irony butcher.</em></p>
+</blockquote>
+
+
+<p><a href="http://www.boganipsum.com/" target="_blank"><strong>Bogan Ipsum</strong></a><br />Credit to Maqusan for this one.</p>
+
+
+<blockquote class="posterous_medium_quote">
+<p><em>She'll be right his blood's worth bottling no dramas as cross as a bush telly. quid where he's got a massive ciggies. As cunning as a bizzo my stands out like a slab. Gutful of amber fluid as dry as a blow in the bag. As stands out like bored sh*tless no worries he's got a massive bradman. Lets throw a greenie with as busy as a daks.</em></p>
+</blockquote>
+
+
+<p><a href="http://www.lorizzle.nl/" target="_blank"><strong>Gangsta loremizzle</strong><br /></a>I really can't talk street. But now I can use it as placeholder text. Too many z's for my liking.</p>
+
+
+<blockquote class="posterous_medium_quote">
+<p><em>Lorizzle fo shizzle fo shizzle mah nizzle fo rizzle, mah home g-dizzle its fo rizzle , shizzle my nizzle crocodizzle adipiscing elizzle. Nullizzle sapien velit, ass volutpat, funky fresh quizzle, things dang, bizzle. Funky fresh eget tortizzle. Sizzle erizzle. Fusce at dolizzle dapibus turpizzle tempizzle shizznit. Dope rizzle nibh izzle turpizzle. Mofo izzle tortor. Pellentesque crazy check out this mammasay mammasa mamma oo sa.&nbsp;</em></p>
+</blockquote>
+
+
+<p><a href="http://baconipsum.com" target="_blank"><strong>Bacon Ipsum</strong></a><br />The meat-eater's favourite. Packed full of protein.</p>
+
+
+<blockquote class="posterous_medium_quote">
+<p><em>Bacon ipsum dolor sit amet flank short ribs ex t-bone aliqua id, irure pariatur minim rump anim fatback shank. Sed bresaola pork chop chicken frankfurter, pig anim filet mignon officia in cillum. Prosciutto frankfurter ea incididunt boudin shoulder. Ham aute culpa exercitation. Pork chop do tempor nisi. Ribeye ullamco shank sed eu leberk&auml;se. Ham hock do velit nulla rump excepteur adipisicing strip steak enim, kielbasa qui.&nbsp;</em></p>
+</blockquote>
+
+
+<p>Plus special mention for image placeholder services like&nbsp;<a href="http://placehold.it/">http://placehold.it/</a> <a href="http://lorempixum.com/">http://lorempixum.com/</a> and last but very much not least&nbsp;<a href="http://placekitten.com/">http://placekitten.com/</a>&nbsp;(credit to mia for telling me about the placekitten link. Fab!)</p>
+
+
+<p>So have I missed any?</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Fart Bulbs /via @davetrott]]></title>
+    <link href="http://girlcheese.github.io/blog/2011/09/01/fart-bulbs-via-davetrott/"/>
+    <updated>2011-09-01T12:18:00+01:00</updated>
+    <id>http://girlcheese.github.io/blog/2011/09/01/fart-bulbs-via-davetrott</id>
+    <content type="html"><![CDATA[<div class="posterous_bookmarklet_entry">
+      <object class="OoyalaVideoPlayer" type="application/x-shockwave-flash" height="271" width="500"><param name="allowScriptAccess" value="always" /><param name="allowFullScreen" value="true" /><param name="bgcolor" value="#000000" /><param name="wmode" value="transparent" /><param name="flashvars" value="me=player&amp;embedCode=Vsc29yMjqLndJgAjP1m3HyQrUDzqgixz&amp;width=664&amp;height=360&amp;video_pcode=9mamk6LcE6Bsdnvp9BKq_gdOr5ck&amp;contactServer=player.ooyala.com/Q2HGKJ-PryQsG7CT&amp;text=YlFamaVquRpFEYVQTxo3f7rSYvh13IUAjYpTDIuWqP0w25HoaVdWEFDFUkatL3M-frXXVrr_4GkWSUHWoD5WIcn6tL9J9zDq4rEX7TJRtlsbihd7GVorr4BlU0yYAcWroek64KIpGYvzSjx85uIbaUb7chX0tFFSdwJNSarY72hbMGclt7CpvRfB8PT-1WF9il-d_OI2giijG1tkT_-ndqxN8ysNJYHaV7_3550Ovr5xVI4gl0s48XxaWrGijpc9DMN_s71UCQMKkdocpKsplLc7LotV3rb4CIOFiXdizFdnLK4zXthHOgWKH1K3ZtUEWxT0e8SSUxX1leKwk16PCU3-KpGsW5a13WmzSRCKw3Q1mZv-SWYrLHEKsWzY6FduJAgNXkMX4binRfEfMQVLGmlNqmH32KQdFnrkEDyjK3e9u0MiDxkSmiZwPrSBqs-2qWjxkZn48pur96IvG6mSnQrlMIOPvL0brc7_uAHWqJel-lL6HjaUm0GNu4Tor61rx-AoWcCVLkyS8mbbDns9zUqbNLEDxHd-DuNx-EKivfkz87I0Qx9z5AGTKj5h5YqAJH9n6rDxAK40YeL_Gc_GGXEfxuaKxzH4K5WkKonZTursNmehKlz4yFELYm2nfxaV6h6AaXEe1iY1KfFuHXpZSjWhqD-eTqW2fOJ6PL-7GTmqfxuCeqdP5lULCN4TC79P-n7jIKkS595xT2GsdkvfLI681HvPsONcGdzj4YjT2h95RjqK6dchlEfL3txAQX8ePXcxKk8Oy6kaT756VGhiXQzXEcN-btJCtWtzngv5gzIK4fyo5qmj30IImc4I29vi--twP6m9LG_8DLbyW4thVRAK_ZtSt6_v1aL4ZYdHJHxg4qE4PTj7ubQUPzvKET3Anfa363uGbjBJL-vW5LmdBpFGqakBRJXOhdXk199X2ZN0yaIZYouOmBOIxDEiYjNcV24r8rLZzNNnpHpYnMh5pUeuE0uF-uANih64Ood8FS2TL3fDoj4ncpvXSdveKNe3XMLKwKc94fFNi774X3YpIK6uqUCcFN035C6OYtwDQv8aqWkDQHtBrXN09otew53Hw36unsS6uBzasngJxybll3UnVIS2NR-JlzSrEGlkYJJIU_5T8DNGajGetaksqUPZ3pmiJI3UtN1hnUsf692GzdlaJr-QOQGvSFTp6hFTUP9qujxnMubChoPEhkZRbQnSAgYoEj5qRFy4rPehlagucphh1CNewOSbIEpYZvJISBp8vbzEKYUoFe2gO-qC6Pd-IHGASG3VGlo7Qr96NXnOCm-nFaR6CkVllGE5txIdYGAb2cAermDxufglabc8xKdXOrEjFniWN26l_nMEcr4rxChqob1oM8o1o6IRwgqDNcM0xow0DsJngnV92rf98UgPUTjtLE7dZT7a4nfbHca0Pil_l0kgtTJAZw5wYR8KbebJMa1k9C9A3f5WxAVNdeUb3aZY6j6kD9FsawiGTzbqn1ClAFcRa_a7JshcRUU5u3WqSr0_HfJbRlfbAv8BNBF8YnszPC8QoJEkQYYcNd-EAweccsOapuj_xHVnIzSThyvShRsydFusgn0QysZGZaXYD9DF1KE98RubGBSVnSe4znK3GOvM8ZNiyWk2lHvhB6w7x8iwMvywjWzddjlgdgV8sQfVNgAgIfOzHZ73V3Uu1G-791HKLUOgYcFMc0gs4qSJrPRO-_JoD9BehCzoY82wdoyf9GtSqhD7zlDo4h5IHwH3QT4sypMzR03iHqsX-GHAOt5Wgq7DmwvsaZtBche-TGmGbu0OFIMfTUL1YZkOonfvcoFWisl57G9EmT0y4nIBBLEjQ-3JBx2oi_KzTmsPneVvVedc4IJRbZ8D6iLENjvDG_R8wdtpDHk0vw2MkXBZ24n-K4CGt3VolOKhfwykYieeMuJ1GHUGfrcGMKs4aSmFj3UyRikID7-6CgsuFa8s1Ie_Q-Z9tKBeMShwW4V2CX1u_zGTY0voFZV57SLMDDw0opsPaKe5jiKEsHc90vawir-7kGe3ZXlAdnblFTEmn28bZpGCOmpv-i1z9uYU_5B1K8PytP_GitUCpPDWOdjCayYtYbsjv_ZS82K5uDRabTNCvczoLS2m7AlPPj79dsjRa0hPHxJ9ua3TbxTOLKpoYtl_pB4Va1A731N7_fW7bMTheK-1oAZS4sr0Jw-hgoJ9DhP01PqWz46GtMjdY8Tedt5df1m-BVcGumEVJOa3ZYC5fu6gA1L5nho02WY2PohkBiZvl-6LpR0Dk8o5hn9_9iSiqMADik6nRwoszUEeVYYesIWP5wjIHudLp3x7WB-8Gp2X_lQAZMC3tg6BwMCfOaxA3B34_zQcKAWXyAj4X1BO5T1sYfYBHwlWjYJtuGisBUiJa_zZVgfP2FxPnYlpZJHNGhzqCsTylczRj6rEl6jIBMXAh_1Ci_nXC2S1UiCqzmm9K2HmCB2ueoICZsqMixPypGyf01SV3MqQ-rlVXbkY3sShFNFH57GJ8HSV3AfUOs2neuebK93uS-NSQSIxnYg5NlBNw95381sVgw6AResiBW92GV-MirDOF3za0PzZ_h44OvrJMUqbuWR_7YaJT7CRZTdk4SpJhXTK2KmuV45vZUNqSYpyaIKf_hn20Zd5XcmCNtMGmSc6psnaEkfhCAeN4VZqnLiIpuSl2K_9mJb1aAcDbF9mvja4VVqWkj7wyE8XqkV8H0y4mAS5AKTf2S9NXNEatl6mGdvRB1JYXazSmRoDWYxjBHlYBe-m-j3Pbby4bBAM2DVDWsuqQ1PscmGVYCxuZG2AH8iB40rUZuNrEp48-CiOa8XgNdrt3xTeAfluXwv90tfGVZwP-Ge0EVgdYhlyrLtRhs8-pKSL5Pox5lgvmEXB26hs1RmuAya1t0EF5fHrInOmNmSVyw-EHEBfBjkzuIfQCTvhg_X6kGEDIotBbIhmumKxLRTf29ksdoKNE75n1SMwm_giKoDeomFQCXFrHLNhU7xOKnJ61s5WImlsUk8u2LUE5ZEoQguwwo0Pm_Hqx3KJX_FtwPkZQnMu-yWlTlOgKgcj1js5n_HfQzHL3BW98R-lanrquN5b8NcniPGlBKosmPZI33jsqWwE8gr6u3i7vJ2ZKDKtm85nYWCnNVdpQ-YMrHRDUIU737ecAwyBNp6Szot3ViPnyZZtGvGvmyIlZvCRzeHrxV6Jvi4ErA0PjOUX52nlvho-jWFwTukoYW0YVTHBTWqBOa8vDf3ZLRyt5jx5odpUO9y41GghWV6MYpfMMmWBGn94nSVjB3jRpPNW-A2NejdkM9jYlsovTWQBRMdia8ZEUNKKwoe-buVKuDTsNKTiEG3rujgRvnmL6zJjGpC36PL7xb8keVRbw9-wbXjPbqVAeFkrsj2xSX0xiAPtqOolA7A0dFkNb-4dmjpcjeeRiR_0coqeDMO2coJziKfYb4SWgQO8OQeto8S5ah2mwBjQTfM5t6n_0RoEuQjcHf32sO-qzjeC7p59HDxlO8fRhz_MoCXKvSj7sqMXmItGGkkq536H-ncqWApg1YhajVxYnso8OhvJJHezE2QVUmPQMyAzW4lEUzl8kO9L1EOmUB3QAlX0YlvEN0m2dtJHbfxNDve-q-K1k6BrulfDxdiUghMfDhQGfcaIdX8Nvmo6Fhfq274FBDbzE9-PwTBDNrTFBVw5SknsXj9VQHKsRrAUP43f3wn-oEZ9OfIg0B5fcocrgT8ovQByKreRPgUZjAtzwoeeYK8ljoWpAMQ7z_29KMKnaa6SUzp6NjN1XgAzKDlrv4Ur9rdpaGu9CgD5uLc46eyIJAeeCzpdRsRKKP68Ch3Khm3Y195nOEfeSDfG_vF9GjKiJsHNFJVJ82Tv3I05n1VJJYU9yBBS9oyzLrkBHq4imTyN1tk0iEqhOgN4rcgC98679v8PCK437kBB2gGv3m4m92iagbtOc52_HiDDW-UNjcro4zWuuhQx6n-dTkHmHMffh5V7biRzOddY7NhjtEDjRkKgu2VBJtdP_uqE8ZooKBZiIuMg0BavASn6AvB1DvVheVnTBnQ5m0ELJbtqH-4A_Dq-wwNS6ezYlQQzeOBET6hq6qWoMEREOjlUxAJMd2GRMuz-ptkmL_nCPlk_1drKLqkl-yDryA-1Zfc6t76olELmbYqtchpeFi0HLvd-qn9iWNvLZCiY598qGdULlnfav9m-h_Pa3UzGHMQ4GOpuPPL_cdssAk47RvH16xGRgMbrN9M9bT-MxrMhJzixwtmNsuoiqjVkX2PbtjOACx_mTvmse-yYHaxPaktqK1jLjvnJyFljXxik7kjit-x8zz6Jszcqz_WjKh1HxmEIMfG2KXB4E_4_03psxF2MHCbV0n1R9L5E9iWECjEz0r3K6SMiXuUAjBel6eN9SYJ38AvPsLLxxoAMOkTYyHrsHTbwBRvoOik26wlqVnZm1gn92YgsaCmfqIrBHwcazJ63bj2N3jGihqeMfESeCHcUcBeqG2i4MKv6bShJz_-VOuVJNBbS7C9MKA2Ys_fp5FfeNF220HCuriG2E8ELsn7jaPVJrv2J_Mwn6oh5iHVQj84ub9b5cgKZYgpPxk-pokbilNguUJp2bnz8E7uWX7JCsHT2xB4L1jOPCajroMzY0HGI_vM8qH7Yv4bnCUDJyLcEi3Yn8xB-qKQ9mHvAc0bxwvQbQkefvJJ0cHdQy96XnRJ9rvuGoxdAlXzoQfjW_0aOei7c3H61B4Wjat6SW-3KNd6ESFvnST-MQj0g7KkBwZJlYjfyP_LdKNYZxRyFQQWd9kgPu3_BLSZLOhp-AYCFzV3o8pR-QNtCMLDeaIyMqsiFsngJrcPoubt_qIdFlC8pSLRKAcsgMYcIK_aeMQhJGknyCRJnPRYpFQiyvshwHzjouZyyJ52rMuD3eraLG58AU1MCIl4nvtOz7XWY8mLWAjQA2CnHPLVFzPSWO8nWPtNoarnhOPE9FjHagDfyCcaHboGysNLrZH32AuY7n3Ht408u7ly7hQ1JKsX7oBP6HmSQErQg3amX5zsMBkdTJjdB5qef1j0O5tgmILuDpsETcAubtL4A4RAf_cY-wZs1qErsF-lkMErQ0kSt6sd-rycv5L-WvdwT-4S5WZuiBJtbZagaQuqvObXmmQT8a0aRlfsK4HKi3gymvzaQm6RrX4d9eHNYeZv1CZqBrUmF36jHZMtKjz3to9UQek-03YMvJOg0NzH9PcGpvEece3D7pmuI4JhUrM9YjPF4rslJMQD-mNBP1FFgG7EcY6o348U7mHwreelWSpYbBy3jZfEytqRf3UeqD2p-BvXm2rOI327jyeTzwymlH8wI9UbupOPyZ2BSv0ya6GaPC85scMH9rnAQpIDpMZzcLuhAwAzEFyly3GGFXIalDZKF3FwUE5Oo-oS-esN5sgGSvrrtiav0XTYsqgZU8LPSyPFWKRUTRWNhqbXe6omnHh3G1xoGaCsBbgRc5j4cp0Yfm9XSe01gVW3N4KaSqs9d_uaiqkCP8fFywgOqmbYaYfaJod4-k3C9xboIAWZDrOeCNmpdQpUFEEzdSrZtUj4luoO7bp1qzLKT2JsUiYsA1DiZjELqzbyMVru56h5MkHlbch0Ig945O4hmUSEgtPWa2pWaWRt_p9z23LQTxASRzRgxkbg77cstxIG0aAxLYb6QDfLSuScPUwXuYGT4jbC3NqRabvl0POhEHIsfQa6cUYkKLK54zlsrsBGP_oi0MjROoplKCCmeWNkxKIkFakGlEHBqvYM4x4y3rAvqhHiPyKEJx7ahwwuH41mEfZeS5pL1d98kbD5LkTnUaHCAYGeSr8gQy6vo5fCymPZNBb78tvdWZZeI75NMjN8RtM5mU6caqw1bdgq_XRYmIvN5Lc3hEwbVh48pO98Oy2oebczrAHvjbAD_1vHRglaZfV7xO0U7zc9RWaWtVov3YzCXQ_2HQ22INpmLs08ZkvTvfn8HzYYGZrPyWDsCPRFt1BxGFyY3IDw1rxTYMjkhYfM_WuN2v6E3WFOiID7V5UOZwMJOMzZAMDOdq3nF2uIcJy5a3jeBcbwWTSxDXuM8YELRdyj4ZEp1lDIydXh6CMOpxFiGtSAhAR3fkOWiPiKERXlEobtDl2PLgaAKk_MR2xLIAEqSn7KuxBWJZa5aRZLskA78G9i6PtUDZnlp6CJcMN3bzN2AURHbCmjVrYt7KyipsgJEOqAqObyKp2N9AasQjw1ZxIdVXQCoErL2Ztxxs6QDU_1f6ts8JmmemFr80Y-xtF0hvrQBNh7vVLrnZOPo2STmwQpzKmHsKumltBKK66rZ0iynCcQF_Z6lbaDwy0SwIK8EY7YFEDjhGhku0OB203ec9rM59QHY1w7nC9UX4eMB0Rx3Nbnyhb4xxcUVaysFAF7gN6v6bVsZF1lu-uRWQ8s_LmAgsU33o_S2v7w-HPrQTUZabmqNvG4kbSmLm3--YgX0djVPLFG1f2k-ZK3Druh91MMkISnCcMEXksVJeC-DkDwevBz3Tja3dKjTZ8mLl6CSVX5vcuXWpt4gSqbei3XdTsiNzd5pyOrKxTk0jljvnmZinzzkdma-_eDqDRr06XZz527jIRfx2R4Juqwq4tCMWMcOqc16ifFCwsJGR2OBLAaN7NdZx0LHvyk2sJbEcHHfVngQcK3OWzUpVK1vbxEYprfneH1SXyRRsfyz0XTS2Ikha41UsGtmZ2NcA86AormnG0tuD2Vc7MF_MBIbVjH9Yco6JXsxuToQ0htP4U4kMSZvFV-2vB11_cbirLtPuXTwGO83hOJpM30SrU0cr1wLUtGFtO-E3ydizphXXajzHNqUtf1BhrUkZx_3TkJ-IMNfxxGjQ5l8OXmqj6AO97uIWnyODL88S1gP4_L4c4ZTgZ3o_JIuzR1AwWCcjjEaPQ6PgLVh54C_GcZJ5y4u5Ipr-rPRzqnxJb_mnKfLaDAvkiWbynPyf_dB43yvvD7HcGjCZf9QuuWFSMSR9idAWkRnm_eVHhWlalGwlLOs_PK3owS4g7gI--Iszz15dh8E4I9CvbvX4yye_XMEyB2JCukTG3ze1kZL1DejnIE9DXmMr1zA5Y6Mc-yWtGt3l7sQPbrfoZ7-Q4tSZ_XSCzhxMSJiI-E6akeBKFLwXxMY4RE7LoYp89rziVGCJxl5CbnMwkDY-rGoo-I2esnvXqAwypjZ0UKEwMpgQklS59ECIp7COv0upKltxu1Mst6rGGfwhqPTD6u8GmON5sL_D6rLJv0aQa6TkVBCH8KwCM3If78Q-fCixB5l4yyCHKid5AjZ0WPdBadlvqVIY-PLA0YIs4OVu2cTP7tt3t7pAxRvKJkLlGt9eQkCGVqNwLlLHpFiRBvubIQxRbNN8qBNrsxOHb2ZeuqDr6KQOjrD4VUXcXGhqyAAekoZ7OUiC2LAw5hr1bsxvIWvs5k7d7xsMN0eHHJ7rLBRl9F_Fyg6Veq9N9mXESRtPyYh5352dH3JIRE6YSvMT2j8cWlUZccnbqKheMw_gexaH-cwFSIzFvkG4e4y9wyyQc-jUOOHivL-O0ED9gIhJDYMqHWsr_avCDi93Pfj-NwPCqgkCq90G_gcv5qGQ12Oe82IFsUGpDFAtBm83MEA3Cd1qyEYsh7ZKqIYhidNU-anU9dpiY2oqzM0IzN5xnkHPTt4QNbcCKQpURY8kbs2jd99EHUpAf1opKnJJ3CXr75us4JrGB-gWSg5A_M_NKqcz7LqcbSe5_FfdnppDcqOZ3hnDl3WQknP_Ucl66EcjvBNVcbz7IaqikscgVBKhszZ4AL8iicjEGrZoR01n0tdEkLrt1gg3saKXmx5M3VOJslSXxMKukn9uC4AUoqB5vcGCjJaIOOT980SY_XgtCiSv-OoGTKyZXzU4PpU3O_VubskF3PCb4ysakYDQqA1MV9LrjCciqL3OiCpxEvV8E8hnV1FwCbraUre9tCuNZCSngHXqy5pnPIiozHMmN_b7YLEYHiua-TGOzIdL6XY&amp;docUrl=http%3A//www.shots.net/video/shots-contenders/71512/megaman-fart-bulbs.html&amp;autoplay=0&amp;loadStartTime=1314879454425" /></object></p>
+<div class="posterous_quote_citation">via <a href="http://www.shots.net/video/shots-contenders/71512/megaman-fart-bulbs.html">shots.net</a></div>
+<p />
+<blockquote class="twitter-tweet">
+<p>Finally, a well made, well thought out, funny, intelligent TV commercial: <a href="http://t.co/264usWI" title="http://www.shots.net/video/shots-contenders/71512/megaman-fart-bulbs.html">shots.net/video/shots-co…</a> (r/t @<a href="https://twitter.com/thepunkrockshop">thepunkrockshop</a>)</p>
+<p>&mdash; dave trott (@davetrott) <a href="https://twitter.com/davetrott/status/109237775718559744">September 1, 2011</a></p></blockquote>
+</div>
+
+]]></content>
+  </entry>
+  
+</feed>

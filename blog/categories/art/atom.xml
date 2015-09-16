@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Art | My Octopress Blog]]></title>
+  <link href="http://girlcheese.github.io/blog/categories/art/atom.xml" rel="self"/>
+  <link href="http://girlcheese.github.io/"/>
+  <updated>2015-09-16T13:51:12+01:00</updated>
+  <id>http://girlcheese.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Arcadia Glastonbury]]></title>
+    <link href="http://girlcheese.github.io/blog/2014/07/09/arcadia-glastonbury/"/>
+    <updated>2014-07-09T12:09:55+01:00</updated>
+    <id>http://girlcheese.github.io/blog/2014/07/09/arcadia-glastonbury</id>
+    <content type="html"><![CDATA[<p>This is lovely!</p>
+
+
+<p>https://www.youtube.com/watch?v=VPRvV6-LsTI</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[LEGO Sharknado!]]></title>
+    <link href="http://girlcheese.github.io/blog/2013/07/15/lego-sharknado/"/>
+    <updated>2013-07-15T17:56:22+01:00</updated>
+    <id>http://girlcheese.github.io/blog/2013/07/15/lego-sharknado</id>
+    <content type="html"><![CDATA[<p><a style="text-align: center;" href="http://www.geeksaresexy.net/2013/07/15/zomg-lego-sharknado-pic/"><img alt="ZOMG LEGO Sharknado!" src="http://www.girlcheese.com/blog/wp-content/uploads/2013/07/lego_sharknado.jpg" /></a></p>
+
+
+<p>Via <a href="http://www.geeksaresexy.net/2013/07/15/zomg-lego-sharknado-pic/">Geeks Are Sexy</a> - There are some other nice lego shots at <a href="http://www.flickr.com/photos/ochre_jelly">the original flickr page</a> :)</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Penrose Triangles]]></title>
+    <link href="http://girlcheese.github.io/blog/2011/11/01/penrose-triangles/"/>
+    <updated>2011-11-01T11:23:00+00:00</updated>
+    <id>http://girlcheese.github.io/blog/2011/11/01/penrose-triangles</id>
+    <content type="html"><![CDATA[<div class="posterous_bookmarklet_entry">
+<div class='p_embed p_image_embed'>
+<a href="http://www.girlcheese.com/blog/wp-content/uploads/2011/11/media_httpcdn1sbnatio_mFHjD.gif.scaled1000.gif"><img alt="Media_httpcdn1sbnatio_mfhjd" height="303" src="http://www.girlcheese.com/blog/wp-content/uploads/2011/11/media_httpcdn1sbnatio_mFHjD.gif.scaled1000-300x181.gif" width="500" /></a>
+</div>
+<div class="posterous_quote_citation">via <a href="http://www.theverge.com/2011/11/1/2528367/welcome-to-the-verge">theverge.com</a></div>
+<p>Lovely :)</p>
+</div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[This Week's Best Venn]]></title>
+    <link href="http://girlcheese.github.io/blog/2011/10/19/this-weeks-best-venn/"/>
+    <updated>2011-10-19T09:28:00+01:00</updated>
+    <id>http://girlcheese.github.io/blog/2011/10/19/this-weeks-best-venn</id>
+    <content type="html"><![CDATA[<div class="posterous_bookmarklet_entry">
+<div class='p_embed p_image_embed'>
+<img alt="" src="https://p.twimg.com/AcGxsKzCAAA6nRH.jpg:large" />
+</div>
+<div class="posterous_quote_citation">via <a href="https://twitter.com/#!/Funnyusername96/status/126577636909645824/photo/1/large">twitter.com</a></div>
+<p>Any diagram featuring a keytar is a winner</p>
+</div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hypnotic Leading Ladies]]></title>
+    <link href="http://girlcheese.github.io/blog/2011/09/15/hypnotic-leading-ladies/"/>
+    <updated>2011-09-15T10:17:00+01:00</updated>
+    <id>http://girlcheese.github.io/blog/2011/09/15/hypnotic-leading-ladies</id>
+    <content type="html"><![CDATA[<div class="posterous_bookmarklet_entry">
+<div class="p_embed p_image_embed"><img class="alignnone" alt="" src="http://img.ffffound.com/static-data/assets/6/0572f0d7f57a42f1ad6131768470574c7cd02c9e_m.gif" width="480" height="322" /></div>
+<div class="posterous_quote_citation">via <a href="http://ffffound.com/image/0572f0d7f57a42f1ad6131768470574c7cd02c9e">ffffound.com</a></div>
+<p>Can't. Stop. Watching</p>
+</div>
+
+]]></content>
+  </entry>
+  
+</feed>
